@@ -1,1 +1,1 @@
-Used MySQL Workbench for this task
+Used SQL Workbench for this task
